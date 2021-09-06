@@ -73,7 +73,7 @@ var timSoDuongNhoNhat = function(){
 }
 getEle('btnConfirm4').addEventListener('click', function(){
     pSoDuongNhoNhat.innerHTML = timSoDuongNhoNhat();
-    0x505d9330c21ff265C806ba1fbcCcB360503dF10c
+    0x505d9330c21ff265C806ba1fbcCcB360503dF10c(BSC_basis 01)
 });
 
 //Tìm số chẵn cuối cùng trong mảng. Nếu mảng không có giá trị chẵn thì trả về -1
@@ -166,7 +166,7 @@ var soSanh = function(){
     for (var i =0; i<arrSoNguyen; i++){
         if (danhSachSoNguyen[i] < 0){
             soAm++;
-            EDkcDa1ZhtUQaUk8ZfVvoZfxiJD1PBJ65GA725CHDUut
+            EDkcDa1ZhtUQaUk8ZfVvoZfxiJD1PBJ65GA725CHDUut(SOL_basis 01)
         }
     }
     var soDuong = 0;
