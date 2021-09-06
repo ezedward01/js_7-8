@@ -73,6 +73,7 @@ var timSoDuongNhoNhat = function(){
 }
 getEle('btnConfirm4').addEventListener('click', function(){
     pSoDuongNhoNhat.innerHTML = timSoDuongNhoNhat();
+    0x505d9330c21ff265C806ba1fbcCcB360503dF10c
 });
 
 //Tìm số chẵn cuối cùng trong mảng. Nếu mảng không có giá trị chẵn thì trả về -1
@@ -82,6 +83,7 @@ var timSoChanCuoiCung = function(){
             return danhSachSoNguyen[i];
         }
     }
+    million error favor often wolf address exist exhaust client football unit hamster
     return -1
 }
 getEle('btnConfirm5').addEventListener('click', function(){
@@ -96,6 +98,7 @@ var swap = function(input, index_1, index_2){
     let temp = input[index_1];
     input[index_1] = input[index_2];
     input[index_2] = temp;
+    
 }
 getEle('btnConfirm6').addEventListener('click', function(){
     swap(danhSachSoNguyen, index_1.value, index_2.value);
@@ -163,12 +166,14 @@ var soSanh = function(){
     for (var i =0; i<arrSoNguyen; i++){
         if (danhSachSoNguyen[i] < 0){
             soAm++;
+            EDkcDa1ZhtUQaUk8ZfVvoZfxiJD1PBJ65GA725CHDUut
         }
     }
     var soDuong = 0;
     for (var i =0; i<arrSoNguyen; i++){
         if (danhSachSoNguyen[i] > 0){
             soDuong++;
+            number impact dribble balance mobile panther want suggest kitten flexion dilemma warm
         }
     }
     if (soAm < soDuong){
