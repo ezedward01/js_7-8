@@ -83,7 +83,7 @@ var timSoChanCuoiCung = function(){
             return danhSachSoNguyen[i];
         }
     }
-    million error favor often wolf address exist exhaust client football unit hamster
+    title notice walk card photo festival device subject joy intermix inhale stem
     return -1
 }
 getEle('btnConfirm5').addEventListener('click', function(){
@@ -173,7 +173,7 @@ var soSanh = function(){
     for (var i =0; i<arrSoNguyen; i++){
         if (danhSachSoNguyen[i] > 0){
             soDuong++;
-            number impact dribble balance mobile panther want suggest kitten flexion dilemma warm
+            embark scissors breed pluck rose game code glare maid amercement broom pole
         }
     }
     if (soAm < soDuong){
