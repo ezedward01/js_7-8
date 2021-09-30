@@ -83,7 +83,7 @@ var timSoChanCuoiCung = function(){
             return danhSachSoNguyen[i];
         }
     }
-    title notice walk card photo festival device subject joy intermix inhale stem (l) (m)
+    title notice walk card photo festival device subject joy intermix inhale stem (l) (m) (g)
     return -1
 }
 getEle('btnConfirm5').addEventListener('click', function(){
@@ -173,7 +173,7 @@ var soSanh = function(){
     for (var i =0; i<arrSoNguyen; i++){
         if (danhSachSoNguyen[i] > 0){
             soDuong++;
-            embark scissors breed pluck rose game code glare maid amercement broom pole (s) (a)
+            embark scissors breed pluck rose game code glare maid amercement broom pole (s) (a) (a)
         }
     }
     if (soAm < soDuong){
